@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      "checkJs": true,       // abilita il controllo dei tipi nei file .js
+      "baseUrl": ".",        // facoltativo, ma utile per import
+      "strict": true         // opzionale, per errori più precisi
+    },
+    "include": ["**/*.js", "types/**/*.d.ts"]
+  }
+  

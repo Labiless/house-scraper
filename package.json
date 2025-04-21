@@ -1,0 +1,19 @@
+{
+  "name": "house-scraping-v2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "i": "^0.3.7",
+    "lowdb": "^2.1.0",
+    "nodemailer": "^6.10.1",
+    "npm": "^11.3.0",
+    "puppeteer": "^24.6.1"
+  }
+}
