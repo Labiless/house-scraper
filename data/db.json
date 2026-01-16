@@ -1,1279 +1,226 @@
 {
   "housesLinks": {
-    "vgw": [
-      "https://vgwgroup.nl/woningaanbod/huur/utrecht/othellodreef/141-b",
-      "https://vgwgroup.nl/woningaanbod/huur/utrecht/edisonstraat/105-a-bs",
-      "https://vgwgroup.nl/woningaanbod/huur/utrecht/van-humboldtstraat/103-2",
-      "https://vgwgroup.nl/woningaanbod/huur/utrecht/leidseweg/65-bsa",
-      "https://vgwgroup.nl/woningaanbod/huur/utrecht/lauwerecht/69-a",
-      "https://vgwgroup.nl/woningaanbod/huur/utrecht/breedstraat/37",
-      "https://vgwgroup.nl/woningaanbod/huur/utrecht/schonberglaan/7-a",
-      "https://vgwgroup.nl/woningaanbod/huur/utrecht/notebomenlaan/63-d",
-      "https://vgwgroup.nl/woningaanbod/huur/utrecht/vinkenburgstraat/2-bs",
-      "https://vgwgroup.nl/woningaanbod/huur/utrecht/potterstraat/22-c",
-      "https://vgwgroup.nl/woningaanbod/huur/utrecht/zwaansteeg/11-g",
-      "https://vgwgroup.nl/woningaanbod/huur/utrecht/predikherenkerkhof/1-p"
-    ],
     "pararius_utrecht": [
-      "https://www.pararius.com/studio-for-rent/utrecht/c2fcda4a/cobradreef",
-      "https://www.pararius.com/apartment-for-rent/utrecht/9511eb24/othellodreef",
-      "https://www.pararius.com/apartment-for-rent/utrecht/ab66072f/pal-maleterstraat",
-      "https://www.pararius.com/apartment-for-rent/utrecht/5e4e993b/zambesidreef",
-      "https://www.pararius.com/studio-for-rent/utrecht/e8b226fe/damstraat",
-      "https://www.pararius.com/apartment-for-rent/utrecht/9bccdc1f/van-humboldtstraat",
-      "https://www.pararius.com/apartment-for-rent/utrecht/d80d35dc/krugerstraat",
-      "https://www.pararius.com/apartment-for-rent/utrecht/f4b8f225/amsterdamsestraatweg",
-      "https://www.pararius.com/apartment-for-rent/utrecht/9ccd0c46/domstraat",
-      "https://www.pararius.com/apartment-for-rent/utrecht/cde00aca/buurkerkhof",
-      "https://www.pararius.com/apartment-for-rent/utrecht/cde05c1f/van-heuven-goedhartplein",
-      "https://www.pararius.com/apartment-for-rent/utrecht/afb1cafa/gildstraat",
-      "https://www.pararius.com/apartment-for-rent/utrecht/7ab6f411/oudenoord",
-      "https://www.pararius.com/apartment-for-rent/utrecht/6a3eeed0/leidseweg",
-      "https://www.pararius.com/apartment-for-rent/utrecht/b5616fec/van-heuven-goedhartplein",
-      "https://www.pararius.com/apartment-for-rent/utrecht/ae52a82c/winklerlaan",
-      "https://www.pararius.com/apartment-for-rent/utrecht/15c16ca6/winklerlaan",
-      "https://www.pararius.com/apartment-for-rent/utrecht/5f708042/kees-van-dongensingel",
-      "https://www.pararius.com/apartment-for-rent/utrecht/18d94b81/kees-van-dongensingel",
-      "https://www.pararius.com/apartment-for-rent/utrecht/51f0e3e8/vleutenseweg",
-      "https://www.pararius.com/apartment-for-rent/utrecht/5c8bac25/donkerstraat",
-      "https://www.pararius.com/apartment-for-rent/utrecht/b230173a/donkerstraat",
-      "https://www.pararius.com/studio-for-rent/utrecht/0fa79a83/groeneweg",
-      "https://www.pararius.com/studio-for-rent/utrecht/a6aa480d/oudegracht",
-      "https://www.pararius.com/apartment-for-rent/utrecht/83bcf533/peltlaan",
-      "https://www.pararius.com/apartment-for-rent/utrecht/720df403/winklerlaan",
-      "https://www.pararius.com/apartment-for-rent/utrecht/21ba6f6a/winklerlaan",
-      "https://www.pararius.com/studio-for-rent/utrecht/5abc5cc1/oudegracht",
-      "https://www.pararius.com/studio-for-rent/utrecht/d5b95323/van-heuven-goedhartlaan",
-      "https://www.pararius.com/apartment-for-rent/utrecht/3579d646/donkerstraat"
-    ],
-    "pararius_amsterdam": [
-      "https://www.pararius.com/apartment-for-rent/amsterdam/1e76086a/vrolikstraat",
-      "https://www.pararius.com/apartment-for-rent/amsterdam/630609d4/bijlmerplein",
-      "https://www.pararius.com/apartment-for-rent/amsterdam/fa5cd86b/pantograafstraat",
-      "https://www.pararius.com/apartment-for-rent/amsterdam/5ce02c19/mary-van-der-sluisstraat",
-      "https://www.pararius.com/apartment-for-rent/amsterdam/e07cd2bd/eef-kamerbeekstraat",
-      "https://www.pararius.com/apartment-for-rent/amsterdam/719a03c5/elzenhagensingel",
-      "https://www.pararius.com/apartment-for-rent/amsterdam/13883151/haarlemmerweg",
-      "https://www.pararius.com/apartment-for-rent/amsterdam/ccf458c9/bijlmerdreef",
-      "https://www.pararius.com/apartment-for-rent/amsterdam/4cfd8ad0/haparandaweg",
-      "https://www.pararius.com/apartment-for-rent/amsterdam/b6f1681b/kleiburg",
-      "https://www.pararius.com/apartment-for-rent/amsterdam/751222c4/haparandaweg",
-      "https://www.pararius.com/apartment-for-rent/amsterdam/16259f6a/john-blankensteinstraat",
-      "https://www.pararius.com/apartment-for-rent/amsterdam/416cc8b2/karspeldreef",
-      "https://www.pararius.com/apartment-for-rent/amsterdam/1207b1f4/karspeldreef",
-      "https://www.pararius.com/apartment-for-rent/amsterdam/a9251613/chestertonlaan",
-      "https://www.pararius.com/apartment-for-rent/amsterdam/9f2987a5/lindengracht",
-      "https://www.pararius.com/studio-for-rent/amsterdam/b195cf08/kaasjeskruidstraat",
-      "https://www.pararius.com/apartment-for-rent/amsterdam/1a365a40/kruitberghof",
-      "https://www.pararius.com/apartment-for-rent/amsterdam/c5b32759/da-costastraat",
-      "https://www.pararius.com/studio-for-rent/amsterdam/23bf169a/bijlmerdreef",
-      "https://www.pararius.com/apartment-for-rent/amsterdam/8355eabe/bijlmerplein"
-    ],
-    "househunting_utrecht": [
-      "https://househunting.nl/en/woningaanbod/h103302055-buurkerkhof-utrecht/",
-      "https://househunting.nl/en/woningaanbod/h103300674-donkerstraat-utrecht/",
-      "https://househunting.nl/en/woningaanbod/h103300871-donkerstraat-utrecht/",
-      "https://househunting.nl/en/woningaanbod/h103300712-donkerstraat-utrecht/",
-      "https://househunting.nl/en/woningaanbod/h103300977-oudegracht-utrecht/",
-      "https://househunting.nl/en/woningaanbod/h103301231-peltlaan-utrecht/",
-      "https://househunting.nl/en/woningaanbod/h103300975-oudegracht-utrecht/",
-      "https://househunting.nl/en/woningaanbod/h103301967-oudkerkhof-utrecht/",
-      "https://househunting.nl/en/woningaanbod/h103301262-adenauerlaan-utrecht/",
-      "https://househunting.nl/en/woningaanbod/h103300969-oudegracht-utrecht/",
-      "https://househunting.nl/en/woningaanbod/h103301460-palmstraat-utrecht/",
-      "https://househunting.nl/en/woningaanbod/h103301319-mgr-van-de-weteringstraat-utrecht/"
-    ],
-    "househunting_amsterdam": [
-      "https://househunting.nl/en/woningaanbod/h103301452-waterlooplein-amsterdam/",
-      "https://househunting.nl/en/woningaanbod/h103301430-boeninlaan-amsterdam/",
-      "https://househunting.nl/en/woningaanbod/h103300193-spuistraat-amsterdam/",
-      "https://househunting.nl/en/woningaanbod/h103300167-willem-de-zwijgerlaan-amsterdam/",
-      "https://househunting.nl/en/woningaanbod/h103300107-orteliusstraat-amsterdam/",
-      "https://househunting.nl/en/woningaanbod/h103300114-stolwijkstraat-amsterdam/",
-      "https://househunting.nl/en/woningaanbod/h103300093-sierplein-amsterdam/",
-      "https://househunting.nl/en/woningaanbod/h103380208-jan-van-gentstraat-badhoevedorp/"
-    ],
-    "rotsvast_utrecht": [
-      "https://www.rotsvast.nl/en/utrecht-oudegracht-H01600654/",
-      "https://www.rotsvast.nl/en/utrecht-oudenoord-H01602467697/",
-      "https://www.rotsvast.nl/en/utrecht-zuilenstraat-H01602468131/"
-    ],
-    "rotsvast_amsterdam": [],
-    "huurwoningen_utrecht": [
-      "https://www.huurwoningen.nl/huren/utrecht/1497741/herenweg/",
-      "https://www.huurwoningen.nl/huren/utrecht/1497734/johannes-gerobulusstraat/",
-      "https://www.huurwoningen.nl/huren/utrecht/1497665/shakespearehof/",
-      "https://www.huurwoningen.nl/huren/utrecht/1497626/pagelaan/",
-      "https://www.huurwoningen.nl/huren/utrecht/1444283/cobradreef/",
-      "https://www.huurwoningen.nl/huren/utrecht/1497571/eykmanlaan/",
-      "https://www.huurwoningen.nl/huren/utrecht/1497531/tussenbusstraat/",
-      "https://www.huurwoningen.nl/huren/utrecht/1497518/othellodreef/",
-      "https://www.huurwoningen.nl/huren/utrecht/1497449/bladvlinder/",
-      "https://www.huurwoningen.nl/huren/utrecht/1497448/john-coltranestraat/",
-      "https://www.huurwoningen.nl/huren/utrecht/1497433/groeneweg/",
-      "https://www.huurwoningen.nl/huren/utrecht/1497392/zambesidreef/",
-      "https://www.huurwoningen.nl/huren/utrecht/1497391/pal-maleterstraat/",
-      "https://www.huurwoningen.nl/huren/utrecht/1497275/twellosebeeklaan/",
-      "https://www.huurwoningen.nl/huren/utrecht/1497234/rachmaninoffplantsoen/",
-      "https://www.huurwoningen.nl/huren/utrecht/1497191/jongeneelstraat/",
-      "https://www.huurwoningen.nl/huren/utrecht/1497190/rolderdiephof/",
-      "https://www.huurwoningen.nl/huren/utrecht/1497182/van-humboldtstraat/",
-      "https://www.huurwoningen.nl/huren/utrecht/1497142/idenburgstraat/",
-      "https://www.huurwoningen.nl/huren/utrecht/1497084/twellosebeeklaan/",
-      "https://www.huurwoningen.nl/huren/utrecht/1497077/krugerstraat/",
-      "https://www.huurwoningen.nl/huren/utrecht/1497061/t-goylaan/",
-      "https://www.huurwoningen.nl/huren/utrecht/1497016/vronesteinlaan/",
-      "https://www.huurwoningen.nl/huren/utrecht/1497012/willem-frederik-hermansstraat/",
-      "https://www.huurwoningen.nl/huren/utrecht/1496931/verlengde-houtrakgracht/",
-      "https://www.huurwoningen.nl/huren/utrecht/1496929/amsterdamsestraatweg/",
-      "https://www.huurwoningen.nl/huren/utrecht/1496869/van-sijpesteijnkade/",
-      "https://www.huurwoningen.nl/huren/utrecht/1496776/van-sijpesteijnkade/",
-      "https://www.huurwoningen.nl/huren/utrecht/1496698/van-sijpesteijnkade/",
-      "https://www.huurwoningen.nl/huren/utrecht/1496696/kanaalstraat/"
-    ],
-    "huurwoningen_amsterdam": [
-      "https://www.huurwoningen.nl/huren/amsterdam/1473794/raamgracht/",
-      "https://www.huurwoningen.nl/huren/amsterdam/1497724/schalk-burgerstraat/",
-      "https://www.huurwoningen.nl/huren/amsterdam/1497703/vrolikstraat/",
-      "https://www.huurwoningen.nl/huren/amsterdam/1497700/haringbuisdijk/",
-      "https://www.huurwoningen.nl/huren/amsterdam/1497696/bijlmerplein/",
-      "https://www.huurwoningen.nl/huren/amsterdam/1497695/bijlmerplein/",
-      "https://www.huurwoningen.nl/huren/amsterdam/1497668/spadinalaan/",
-      "https://www.huurwoningen.nl/huren/amsterdam/1497652/mary-van-der-sluisstraat/",
-      "https://www.huurwoningen.nl/huren/amsterdam/1497575/bella-vistastraat/",
-      "https://www.huurwoningen.nl/huren/amsterdam/1497565/elzenhagensingel/",
-      "https://www.huurwoningen.nl/huren/amsterdam/1497492/abraham-kuyperplein/",
-      "https://www.huurwoningen.nl/huren/amsterdam/1497491/holendrechtstraat/",
-      "https://www.huurwoningen.nl/huren/amsterdam/1497490/willem-augustinstraat/",
-      "https://www.huurwoningen.nl/huren/amsterdam/1497489/willem-augustinstraat/",
-      "https://www.huurwoningen.nl/huren/amsterdam/1497488/albardagracht/",
-      "https://www.huurwoningen.nl/huren/amsterdam/1497485/van-suchtelen-van-de-haarestraat/",
-      "https://www.huurwoningen.nl/huren/amsterdam/1497484/kamperfoelieweg/",
-      "https://www.huurwoningen.nl/huren/amsterdam/1497451/tt-vasumweg/",
-      "https://www.huurwoningen.nl/huren/amsterdam/1497292/pantograafstraat/",
-      "https://www.huurwoningen.nl/huren/amsterdam/1497287/mary-van-der-sluisstraat/",
-      "https://www.huurwoningen.nl/huren/amsterdam/1497285/eef-kamerbeekstraat/",
-      "https://www.huurwoningen.nl/huren/amsterdam/1497238/vrolikstraat/",
-      "https://www.huurwoningen.nl/huren/amsterdam/1497223/bijlmerdreef/",
-      "https://www.huurwoningen.nl/huren/amsterdam/1497159/sportstraat/",
-      "https://www.huurwoningen.nl/huren/amsterdam/1497021/nova-zemblastraat/",
-      "https://www.huurwoningen.nl/huren/amsterdam/1497018/wethouder-van-wijckstraat/",
-      "https://www.huurwoningen.nl/huren/amsterdam/1497015/oermilla-tewariestraat/",
-      "https://www.huurwoningen.nl/huren/amsterdam/1496967/ijdoornlaan/",
-      "https://www.huurwoningen.nl/huren/amsterdam/1496877/kaasjeskruidstraat/",
-      "https://www.huurwoningen.nl/huren/amsterdam/1496859/grasweg/"
-    ],
-    "kamernet_utrecht": [
-      "https://kamernet.nl/huren/appartement-utrecht/frans-halsstraat/appartement-2298853",
-      "https://kamernet.nl/huren/appartement-utrecht/afrikalaan/appartement-2298771",
-      "https://kamernet.nl/huren/appartement-utrecht/wittevrouwensingel/appartement-2298667",
-      "https://kamernet.nl/huren/appartement-nieuwegein/weverstedehof/appartement-2298663",
-      "https://kamernet.nl/huren/appartement-utrecht/mulderstraat/appartement-2298652",
-      "https://kamernet.nl/huren/appartement-utrecht/jan-van-scorelstraat/appartement-2298647",
-      "https://kamernet.nl/huren/appartement-utrecht/burgemeester-norbruislaan/appartement-2297194",
-      "https://kamernet.nl/huren/appartement-utrecht/justus-van-effenstraat/appartement-2297033",
-      "https://kamernet.nl/huren/appartement-utrecht/otterstraat/appartement-2295848",
-      "https://kamernet.nl/huren/appartement-utrecht/herenweg/appartement-2140986",
-      "https://kamernet.nl/huren/appartement-utrecht/laan-van-chartroise/appartement-2294877",
-      "https://kamernet.nl/huren/appartement-utrecht/europaplein/appartement-2294191",
-      "https://kamernet.nl/huren/appartement-utrecht/rhodosdreef/appartement-2292882"
-    ],
-    "kamernet_amsterdam": [
-      "https://kamernet.nl/huren/appartement-amsterdam/duivendrechtsekade/appartement-2298639",
-      "https://kamernet.nl/huren/appartement-amsterdam/duivendrechtsekade/appartement-2298637",
-      "https://kamernet.nl/huren/appartement-almere/tellusstraat/appartement-2298595",
-      "https://kamernet.nl/huren/appartement-haarlem/leidsestraat/appartement-2298594",
-      "https://kamernet.nl/huren/appartement-amsterdam/oostenburgerpark/appartement-2298712",
-      "https://kamernet.nl/huren/appartement-amsterdam/martini-van-geffenstraat/appartement-2298448",
-      "https://kamernet.nl/huren/appartement-amsterdam/willem-leevendstraat/appartement-2297068",
-      "https://kamernet.nl/huren/appartement-amsterdam/pedro-de-medinalaan/appartement-2295702",
-      "https://kamernet.nl/huren/appartement-zaandam/burcht/appartement-2295696",
-      "https://kamernet.nl/huren/appartement-uithoorn/bijvoet/appartement-2295423",
-      "https://kamernet.nl/huren/appartement-amsterdam/oostelijke-handelskade/appartement-2295343",
-      "https://kamernet.nl/huren/appartement-amsterdam/kijkduinstraat/appartement-2295127",
-      "https://kamernet.nl/huren/appartement-amsterdam/gouden-leeuw/appartement-2294608",
-      "https://kamernet.nl/huren/appartement-hillegom/van-limburg-stirumlaan/appartement-2294538",
-      "https://kamernet.nl/huren/appartement-amsterdam/van-spilbergenstraat/appartement-2294509",
-      "https://kamernet.nl/huren/appartement-amsterdam/florijn/appartement-2293751",
-      "https://kamernet.nl/huren/appartement-hillegom/van-limburg-stirumlaan/appartement-2292889"
+      "https://www.pararius.com/studio-for-rent/utrecht/1cce77ff/rooseveltlaan",
+      "https://www.pararius.com/apartment-for-rent/utrecht/51cd2beb/neptunusstraat",
+      "https://www.pararius.com/studio-for-rent/utrecht/a2ae624c/groeneweg",
+      "https://www.pararius.com/apartment-for-rent/utrecht/72193f15/lange-smeestraat",
+      "https://www.pararius.com/apartment-for-rent/utrecht/52df384f/winklerlaan",
+      "https://www.pararius.com/studio-for-rent/utrecht/8b5f3a12/ravenoord",
+      "https://www.pararius.com/studio-for-rent/utrecht/1cce77ff/rooseveltlaan",
+      "https://www.pararius.com/apartment-for-rent/utrecht/c0912a14/minrebroederstraat",
+      "https://www.pararius.com/apartment-for-rent/utrecht/5b0a2707/prins-bernhardlaan",
+      "https://www.pararius.com/apartment-for-rent/utrecht/a5a7d6ba/waterstraat",
+      "https://www.pararius.com/apartment-for-rent/utrecht/57090cea/winklerlaan",
+      "https://www.pararius.com/apartment-for-rent/utrecht/f775e210/winklerlaan",
+      "https://www.pararius.com/apartment-for-rent/utrecht/a237af20/oudegracht",
+      "https://www.pararius.com/apartment-for-rent/utrecht/33e72990/albatrosstraat",
+      "https://www.pararius.com/apartment-for-rent/utrecht/69823230/laan-van-nieuw-guinea",
+      "https://www.pararius.com/apartment-for-rent/utrecht/5d7ab163/donkerstraat",
+      "https://www.pararius.com/house-for-rent/utrecht/11d6bf86/verenigingstraat",
+      "https://www.pararius.com/house-for-rent/utrecht/c37b4feb/hubert-duyfhuysstraat",
+      "https://www.pararius.com/apartment-for-rent/utrecht/83759339/cobradreef",
+      "https://www.pararius.com/apartment-for-rent/utrecht/da3b146b/van-heuven-goedhartplein",
+      "https://www.pararius.com/apartment-for-rent/utrecht/fde5b9d6/van-heuven-goedhartplein",
+      "https://www.pararius.com/apartment-for-rent/utrecht/06700398/anton-geesinkstraat",
+      "https://www.pararius.com/apartment-for-rent/utrecht/f6213063/westerkade",
+      "https://www.pararius.com/studio-for-rent/utrecht/0c5ef343/leidsekade",
+      "https://www.pararius.com/apartment-for-rent/utrecht/90db62b2/gansstraat",
+      "https://www.pararius.com/apartment-for-rent/utrecht/bf86c67d/potterstraat",
+      "https://www.pararius.com/house-for-rent/utrecht/a3e72c98/smalle-begijnestraat",
+      "https://www.pararius.com/apartment-for-rent/utrecht/da1104ca/wulpstraat",
+      "https://www.pararius.com/apartment-for-rent/utrecht/dfae9534/johannes-camphuysstraat",
+      "https://www.pararius.com/apartment-for-rent/utrecht/8239eceb/willem-barentszstraat",
+      "https://www.pararius.com/apartment-for-rent/utrecht/c11a7ccb/potterstraat"
     ]
   },
   "housesDetails": {
-    "vgw": [
-      {
-        "houseLink": "https://vgwgroup.nl/woningaanbod/huur/utrecht/othellodreef/141-b",
-        "postingDate": "Nieuw in verhuur",
-        "address": "Othellodreef 141B, 3561 GV Utrecht",
-        "price": "€ 1.250,-"
-      },
-      {
-        "houseLink": "https://vgwgroup.nl/woningaanbod/huur/utrecht/edisonstraat/105-a-bs",
-        "postingDate": "Nieuw in verhuur",
-        "address": "Edisonstraat 105A BS, 3553 BP Utrecht",
-        "price": "€ 1.285,- /jr"
-      },
-      {
-        "houseLink": "https://vgwgroup.nl/woningaanbod/huur/utrecht/van-humboldtstraat/103-2",
-        "postingDate": "Woensdag 16 april 2025",
-        "address": "Van Humboldtstraat 103-2, 3514 GN Utrecht",
-        "price": "€ 1.100,- /mnd"
-      },
-      {
-        "houseLink": "https://vgwgroup.nl/woningaanbod/huur/utrecht/leidseweg/65-bsa",
-        "postingDate": "Vrijdag 11 april 2025",
-        "address": "Leidseweg 65BSA, 3531 BD Utrecht",
-        "price": "€ 1.650,- /mnd"
-      },
-      {
-        "houseLink": "https://vgwgroup.nl/woningaanbod/huur/utrecht/lauwerecht/69-a",
-        "postingDate": "Vrijdag 7 februari 2025",
-        "address": "Lauwerecht 69A, 3515 GN Utrecht",
-        "price": null
-      },
-      {
-        "houseLink": "https://vgwgroup.nl/woningaanbod/huur/utrecht/breedstraat/37",
-        "postingDate": "Vrijdag 14 februari 2025",
-        "address": "Breedstraat 37, 3512 TT Utrecht",
-        "price": null
-      },
-      {
-        "houseLink": "https://vgwgroup.nl/woningaanbod/huur/utrecht/schonberglaan/7-a",
-        "postingDate": "Vrijdag 7 maart 2025",
-        "address": "Schönberglaan 7A, 3533 JC Utrecht",
-        "price": null
-      },
-      {
-        "houseLink": "https://vgwgroup.nl/woningaanbod/huur/utrecht/notebomenlaan/63-d",
-        "postingDate": "Woensdag 19 maart 2025",
-        "address": "Notebomenlaan 63D, 3582 CH Utrecht",
-        "price": null
-      },
-      {
-        "houseLink": "https://vgwgroup.nl/woningaanbod/huur/utrecht/vinkenburgstraat/2-bs",
-        "postingDate": "Maandag 17 maart 2025",
-        "address": "Vinkenburgstraat 2BS, 3512 AB Utrecht",
-        "price": null
-      },
-      {
-        "houseLink": "https://vgwgroup.nl/woningaanbod/huur/utrecht/potterstraat/22-c",
-        "postingDate": "Vrijdag 14 februari 2025",
-        "address": "Potterstraat 22C, 3512 TB Utrecht",
-        "price": null
-      },
-      {
-        "houseLink": "https://vgwgroup.nl/woningaanbod/huur/utrecht/zwaansteeg/11-g",
-        "postingDate": "Dinsdag 18 februari 2025",
-        "address": "Zwaansteeg 11G, 3511 VG Utrecht",
-        "price": null
-      },
-      {
-        "houseLink": "https://vgwgroup.nl/woningaanbod/huur/utrecht/predikherenkerkhof/1-p",
-        "postingDate": "Donderdag 20 februari 2025",
-        "address": "Predikherenkerkhof 1P, 3512 TJ Utrecht",
-        "price": null
-      }
-    ],
     "pararius_utrecht": [
       {
-        "houseLink": "https://www.pararius.com/studio-for-rent/utrecht/c2fcda4a/cobradreef",
-        "postingDate": "18-04-2025",
-        "address": "For rent: Studio Cobradreef in Utrecht",
-        "price": "€950 per month"
+        "houseLink": "https://www.pararius.com/studio-for-rent/utrecht/1cce77ff/rooseveltlaan",
+        "postingDate": null,
+        "address": "For rent: Studio Rooseveltlaan in Utrecht",
+        "price": "€1,170 per month"
       },
       {
-        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/9511eb24/othellodreef",
-        "postingDate": "18-04-2025",
-        "address": "For rent: Flat Othellodreef in Utrecht",
+        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/51cd2beb/neptunusstraat",
+        "postingDate": null,
+        "address": "For rent: Flat Neptunusstraat in Utrecht",
         "price": "€1,250 per month"
       },
       {
-        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/ab66072f/pal-maleterstraat",
-        "postingDate": "17-04-2025",
-        "address": "For rent: Flat Pal Maleterstraat 65 in Utrecht",
-        "price": "€1,650 per month"
-      },
-      {
-        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/5e4e993b/zambesidreef",
-        "postingDate": "17-04-2025",
-        "address": "For rent: Flat Zambesidreef 121 in Utrecht",
-        "price": "€1,695 per month"
-      },
-      {
-        "houseLink": "https://www.pararius.com/studio-for-rent/utrecht/e8b226fe/damstraat",
-        "postingDate": "17-04-2025",
-        "address": "For rent: Studio Damstraat in Utrecht",
-        "price": "€1,395 per month"
-      },
-      {
-        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/9bccdc1f/van-humboldtstraat",
-        "postingDate": "16-04-2025",
-        "address": "For rent: Flat Van Humboldtstraat in Utrecht",
-        "price": "€1,100 per month"
-      },
-      {
-        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/d80d35dc/krugerstraat",
-        "postingDate": "16-04-2025",
-        "address": "For rent: Flat Krugerstraat 12 BS in Utrecht",
+        "houseLink": "https://www.pararius.com/studio-for-rent/utrecht/a2ae624c/groeneweg",
+        "postingDate": null,
+        "address": "For rent: Studio Groeneweg in Utrecht",
         "price": "€895 per month"
       },
       {
-        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/f4b8f225/amsterdamsestraatweg",
-        "postingDate": "15-04-2025",
-        "address": "For rent: Flat Amsterdamsestraatweg 869 C in Utrecht",
-        "price": "€1,098 per month"
+        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/72193f15/lange-smeestraat",
+        "postingDate": null,
+        "address": "For rent: Flat Lange Smeestraat 13 B in Utrecht",
+        "price": "Price on request"
       },
       {
-        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/9ccd0c46/domstraat",
-        "postingDate": "14-04-2025",
-        "address": "For rent: Flat Domstraat in Utrecht",
+        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/52df384f/winklerlaan",
+        "postingDate": null,
+        "address": "For rent: Flat Winklerlaan in Utrecht",
+        "price": "€1,229 per month"
+      },
+      {
+        "houseLink": "https://www.pararius.com/studio-for-rent/utrecht/8b5f3a12/ravenoord",
+        "postingDate": null,
+        "address": "For rent: Studio Ravenoord 37 in Utrecht",
+        "price": "€975 per month"
+      },
+      {
+        "houseLink": "https://www.pararius.com/studio-for-rent/utrecht/1cce77ff/rooseveltlaan",
+        "postingDate": null,
+        "address": "For rent: Studio Rooseveltlaan in Utrecht",
+        "price": "€1,170 per month"
+      },
+      {
+        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/c0912a14/minrebroederstraat",
+        "postingDate": null,
+        "address": "For rent: Flat Minrebroederstraat 15 K in Utrecht",
+        "price": "€1,056 per month"
+      },
+      {
+        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/5b0a2707/prins-bernhardlaan",
+        "postingDate": null,
+        "address": "For rent: Flat Prins Bernhardlaan 58 E in Utrecht",
+        "price": "€960 per month"
+      },
+      {
+        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/a5a7d6ba/waterstraat",
+        "postingDate": null,
+        "address": "For rent: Flat Waterstraat 7 in Utrecht",
+        "price": "€1,695 per month"
+      },
+      {
+        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/57090cea/winklerlaan",
+        "postingDate": null,
+        "address": "For rent: Flat Winklerlaan in Utrecht",
         "price": "€1,595 per month"
       },
       {
-        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/cde00aca/buurkerkhof",
-        "postingDate": "14-04-2025",
-        "address": "For rent: Flat Buurkerkhof in Utrecht",
-        "price": "€950 per month"
-      },
-      {
-        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/cde05c1f/van-heuven-goedhartplein",
-        "postingDate": "14-04-2025",
-        "address": "For rent: Flat Van Heuven Goedhartplein 757 in Utrecht",
-        "price": "€1,380 per month"
-      },
-      {
-        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/afb1cafa/gildstraat",
-        "postingDate": "11-04-2025",
-        "address": "For rent: Flat Gildstraat in Utrecht",
-        "price": "€1,495 per month"
-      },
-      {
-        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/7ab6f411/oudenoord",
-        "postingDate": "11-04-2025",
-        "address": "For rent: Flat Oudenoord in Utrecht",
-        "price": "€1,700 per month"
-      },
-      {
-        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/6a3eeed0/leidseweg",
-        "postingDate": "11-04-2025",
-        "address": "For rent: Flat Leidseweg in Utrecht",
-        "price": "€1,650 per month"
-      },
-      {
-        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/b5616fec/van-heuven-goedhartplein",
-        "postingDate": "2 weeks",
-        "address": "For rent: Flat Van Heuven Goedhartplein 160 in Utrecht",
-        "price": "€1,600 per month"
-      },
-      {
-        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/ae52a82c/winklerlaan",
-        "postingDate": "2 weeks",
+        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/f775e210/winklerlaan",
+        "postingDate": null,
         "address": "For rent: Flat Winklerlaan in Utrecht",
-        "price": "€901 per month"
+        "price": "€1,625 per month"
       },
       {
-        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/15c16ca6/winklerlaan",
-        "postingDate": "2 weeks",
-        "address": "For rent: Flat Winklerlaan in Utrecht",
-        "price": "€1,695 per month"
-      },
-      {
-        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/5f708042/kees-van-dongensingel",
-        "postingDate": "2 weeks",
-        "address": "For rent: Flat Kees van Dongensingel 50 in Utrecht",
-        "price": "€1,275 per month"
-      },
-      {
-        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/18d94b81/kees-van-dongensingel",
-        "postingDate": "2 weeks",
-        "address": "For rent: Flat Kees van Dongensingel 18 A in Utrecht",
-        "price": "€1,475 per month"
-      },
-      {
-        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/51f0e3e8/vleutenseweg",
-        "postingDate": "3 weeks",
-        "address": "For rent: Flat Vleutenseweg in Utrecht",
-        "price": "€1,295 per month"
-      },
-      {
-        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/5c8bac25/donkerstraat",
-        "postingDate": "3 weeks",
-        "address": "For rent: Flat Donkerstraat in Utrecht",
-        "price": "€1,695 per month"
-      },
-      {
-        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/b230173a/donkerstraat",
-        "postingDate": "3 weeks",
-        "address": "For rent: Flat Donkerstraat in Utrecht",
-        "price": "€1,250 per month"
-      },
-      {
-        "houseLink": "https://www.pararius.com/studio-for-rent/utrecht/0fa79a83/groeneweg",
-        "postingDate": "4 weeks",
-        "address": "For rent: Studio Groeneweg in Utrecht",
-        "price": "€1,325 per month"
-      },
-      {
-        "houseLink": "https://www.pararius.com/studio-for-rent/utrecht/a6aa480d/oudegracht",
-        "postingDate": "4 weeks",
-        "address": "For rent: Studio Oudegracht in Utrecht",
-        "price": "€1,050 per month"
-      },
-      {
-        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/83bcf533/peltlaan",
-        "postingDate": "4 weeks",
-        "address": "For rent: Flat Peltlaan in Utrecht",
+        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/a237af20/oudegracht",
+        "postingDate": null,
+        "address": "For rent: Flat Oudegracht in Utrecht",
         "price": "€995 per month"
       },
       {
-        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/720df403/winklerlaan",
-        "postingDate": "5 weeks",
-        "address": "For rent: Flat Winklerlaan in Utrecht",
-        "price": "€1,185 per month"
+        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/33e72990/albatrosstraat",
+        "postingDate": null,
+        "address": "For rent: Flat Albatrosstraat in Utrecht",
+        "price": "€1,400 per month"
       },
       {
-        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/21ba6f6a/winklerlaan",
-        "postingDate": "5 weeks",
-        "address": "For rent: Flat Winklerlaan in Utrecht",
-        "price": "€1,185 per month"
+        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/69823230/laan-van-nieuw-guinea",
+        "postingDate": null,
+        "address": "For rent: Flat Laan van Nieuw-Guinea in Utrecht",
+        "price": "€1,240 per month"
       },
       {
-        "houseLink": "https://www.pararius.com/studio-for-rent/utrecht/5abc5cc1/oudegracht",
-        "postingDate": "6 weeks",
-        "address": "For rent: Studio Oudegracht in Utrecht",
-        "price": "€995 per month"
-      },
-      {
-        "houseLink": "https://www.pararius.com/studio-for-rent/utrecht/d5b95323/van-heuven-goedhartlaan",
-        "postingDate": "2 months",
-        "address": "For rent: Studio Van Heuven Goedhartlaan in Utrecht",
-        "price": "€1,395 per month"
-      },
-      {
-        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/3579d646/donkerstraat",
-        "postingDate": "3 months",
+        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/5d7ab163/donkerstraat",
+        "postingDate": null,
         "address": "For rent: Flat Donkerstraat in Utrecht",
-        "price": "€1,313 per month"
-      }
-    ],
-    "pararius_amsterdam": [
-      {
-        "houseLink": "https://www.pararius.com/apartment-for-rent/amsterdam/1e76086a/vrolikstraat",
-        "postingDate": "19-04-2025",
-        "address": "For rent: Flat Vrolikstraat in Amsterdam",
-        "price": "€1,750 per month"
-      },
-      {
-        "houseLink": "https://www.pararius.com/apartment-for-rent/amsterdam/630609d4/bijlmerplein",
-        "postingDate": "18-04-2025",
-        "address": "For rent: Flat Bijlmerplein 858 H 8 in Amsterdam",
-        "price": "€1,201 per month"
-      },
-      {
-        "houseLink": "https://www.pararius.com/apartment-for-rent/amsterdam/fa5cd86b/pantograafstraat",
-        "postingDate": "17-04-2025",
-        "address": "For rent: Flat Pantograafstraat 44 in Amsterdam",
         "price": "€1,749 per month"
       },
       {
-        "houseLink": "https://www.pararius.com/apartment-for-rent/amsterdam/5ce02c19/mary-van-der-sluisstraat",
-        "postingDate": "17-04-2025",
-        "address": "For rent: Flat Mary van der Sluisstraat 180 in Amsterdam",
-        "price": "€1,677 per month"
+        "houseLink": "https://www.pararius.com/house-for-rent/utrecht/11d6bf86/verenigingstraat",
+        "postingDate": null,
+        "address": "For rent: House Verenigingstraat 29 in Utrecht",
+        "price": "€1,695 per month"
       },
       {
-        "houseLink": "https://www.pararius.com/apartment-for-rent/amsterdam/e07cd2bd/eef-kamerbeekstraat",
-        "postingDate": "17-04-2025",
-        "address": "For rent: Flat Eef Kamerbeekstraat 100 in Amsterdam",
-        "price": "€1,548 per month"
+        "houseLink": "https://www.pararius.com/house-for-rent/utrecht/c37b4feb/hubert-duyfhuysstraat",
+        "postingDate": null,
+        "address": "For rent: House Hubert Duyfhuysstraat in Utrecht",
+        "price": "€925 per month"
       },
       {
-        "houseLink": "https://www.pararius.com/apartment-for-rent/amsterdam/719a03c5/elzenhagensingel",
-        "postingDate": "17-04-2025",
-        "address": "For rent: Flat Elzenhagensingel 407 in Amsterdam",
-        "price": "€1,708 per month"
+        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/83759339/cobradreef",
+        "postingDate": null,
+        "address": "For rent: Flat Cobradreef in Utrecht",
+        "price": "€895 per month"
       },
       {
-        "houseLink": "https://www.pararius.com/apartment-for-rent/amsterdam/13883151/haarlemmerweg",
-        "postingDate": "14-04-2025",
-        "address": "For rent: Flat Haarlemmerweg 894 in Amsterdam",
-        "price": "€1,297 per month"
+        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/da3b146b/van-heuven-goedhartplein",
+        "postingDate": null,
+        "address": "For rent: Flat Van Heuven Goedhartplein 136 in Utrecht",
+        "price": "€1,480 per month"
       },
       {
-        "houseLink": "https://www.pararius.com/apartment-for-rent/amsterdam/ccf458c9/bijlmerdreef",
-        "postingDate": "10-04-2025",
-        "address": "For rent: Flat Bijlmerdreef 466 in Amsterdam",
-        "price": "€1,660 per month"
-      },
-      {
-        "houseLink": "https://www.pararius.com/apartment-for-rent/amsterdam/4cfd8ad0/haparandaweg",
-        "postingDate": "2 weeks",
-        "address": "For rent: Flat Haparandaweg 82 in Amsterdam",
-        "price": "€1,715 per month"
-      },
-      {
-        "houseLink": "https://www.pararius.com/apartment-for-rent/amsterdam/b6f1681b/kleiburg",
-        "postingDate": "2 weeks",
-        "address": "For rent: Flat Kleiburg in Amsterdam",
-        "price": "€1,750 per month"
-      },
-      {
-        "houseLink": "https://www.pararius.com/apartment-for-rent/amsterdam/751222c4/haparandaweg",
-        "postingDate": "3 weeks",
-        "address": "For rent: Flat Haparandaweg 266 in Amsterdam",
-        "price": "€1,731 per month"
-      },
-      {
-        "houseLink": "https://www.pararius.com/apartment-for-rent/amsterdam/16259f6a/john-blankensteinstraat",
-        "postingDate": "3 weeks",
-        "address": "For rent: Flat John Blankensteinstraat in Amsterdam",
-        "price": "€1,550 per month"
-      },
-      {
-        "houseLink": "https://www.pararius.com/apartment-for-rent/amsterdam/416cc8b2/karspeldreef",
-        "postingDate": "3 weeks",
-        "address": "For rent: Flat Karspeldreef 1463 in Amsterdam",
+        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/fde5b9d6/van-heuven-goedhartplein",
+        "postingDate": null,
+        "address": "For rent: Flat Van Heuven Goedhartplein 162 in Utrecht",
         "price": "€1,450 per month"
       },
       {
-        "houseLink": "https://www.pararius.com/apartment-for-rent/amsterdam/1207b1f4/karspeldreef",
-        "postingDate": "3 weeks",
-        "address": "For rent: Flat Karspeldreef 1189 in Amsterdam",
-        "price": "€1,750 per month"
+        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/06700398/anton-geesinkstraat",
+        "postingDate": null,
+        "address": "For rent: Flat Anton Geesinkstraat 11 L in Utrecht",
+        "price": "€1,595 per month"
       },
       {
-        "houseLink": "https://www.pararius.com/apartment-for-rent/amsterdam/a9251613/chestertonlaan",
-        "postingDate": "4 weeks",
-        "address": "For rent: Flat Chestertonlaan in Amsterdam",
+        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/f6213063/westerkade",
+        "postingDate": null,
+        "address": "For rent: Flat Westerkade 28 in Utrecht",
+        "price": "€1,695 per month"
+      },
+      {
+        "houseLink": "https://www.pararius.com/studio-for-rent/utrecht/0c5ef343/leidsekade",
+        "postingDate": null,
+        "address": "For rent: Studio Leidsekade in Utrecht",
+        "price": "€1,325 per month"
+      },
+      {
+        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/90db62b2/gansstraat",
+        "postingDate": null,
+        "address": "For rent: Flat Gansstraat 153 B in Utrecht",
         "price": "€1,650 per month"
       },
       {
-        "houseLink": "https://www.pararius.com/apartment-for-rent/amsterdam/9f2987a5/lindengracht",
-        "postingDate": "2 months",
-        "address": "For rent: Flat Lindengracht 45 2 in Amsterdam",
+        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/bf86c67d/potterstraat",
+        "postingDate": null,
+        "address": "For rent: Flat Potterstraat in Utrecht",
+        "price": "€1,466 per month"
+      },
+      {
+        "houseLink": "https://www.pararius.com/house-for-rent/utrecht/a3e72c98/smalle-begijnestraat",
+        "postingDate": null,
+        "address": "For rent: House Smalle Begijnestraat in Utrecht",
+        "price": "€1,610 per month"
+      },
+      {
+        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/da1104ca/wulpstraat",
+        "postingDate": null,
+        "address": "For rent: Flat Wulpstraat 55 in Utrecht",
+        "price": "€1,105 per month"
+      },
+      {
+        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/dfae9534/johannes-camphuysstraat",
+        "postingDate": null,
+        "address": "For rent: Flat Johannes Camphuysstraat in Utrecht",
         "price": "€1,650 per month"
       },
       {
-        "houseLink": "https://www.pararius.com/studio-for-rent/amsterdam/b195cf08/kaasjeskruidstraat",
-        "postingDate": "2 months",
-        "address": "For rent: Studio Kaasjeskruidstraat in Amsterdam",
-        "price": "€1,185 per month"
-      },
-      {
-        "houseLink": "https://www.pararius.com/apartment-for-rent/amsterdam/1a365a40/kruitberghof",
-        "postingDate": "3 months",
-        "address": "For rent: Flat Kruitberghof 112 in Amsterdam",
-        "price": "€1,750 per month"
-      },
-      {
-        "houseLink": "https://www.pararius.com/apartment-for-rent/amsterdam/c5b32759/da-costastraat",
-        "postingDate": "3+ months",
-        "address": "For rent: Flat Da Costastraat in Amsterdam",
-        "price": "€1,750 per month"
-      },
-      {
-        "houseLink": "https://www.pararius.com/studio-for-rent/amsterdam/23bf169a/bijlmerdreef",
-        "postingDate": "3+ months",
-        "address": "For rent: Studio Bijlmerdreef in Amsterdam",
-        "price": "€1,108 per month"
-      },
-      {
-        "houseLink": "https://www.pararius.com/apartment-for-rent/amsterdam/8355eabe/bijlmerplein",
-        "postingDate": "3+ months",
-        "address": "For rent: Flat Bijlmerplein in Amsterdam",
-        "price": "€1,450 per month"
-      }
-    ],
-    "househunting_utrecht": [
-      {
-        "houseLink": "https://househunting.nl/en/woningaanbod/h103302055-buurkerkhof-utrecht/",
+        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/8239eceb/willem-barentszstraat",
         "postingDate": null,
-        "address": "Buurkerkhof",
-        "price": "€950,-"
+        "address": "For rent: Flat Willem Barentszstraat in Utrecht",
+        "price": "€1,025 per month"
       },
       {
-        "houseLink": "https://househunting.nl/en/woningaanbod/h103300674-donkerstraat-utrecht/",
+        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/c11a7ccb/potterstraat",
         "postingDate": null,
-        "address": "Donkerstraat",
-        "price": "€1695,-"
-      },
-      {
-        "houseLink": "https://househunting.nl/en/woningaanbod/h103300871-donkerstraat-utrecht/",
-        "postingDate": null,
-        "address": "Donkerstraat",
-        "price": "€1250,-"
-      },
-      {
-        "houseLink": "https://househunting.nl/en/woningaanbod/h103300712-donkerstraat-utrecht/",
-        "postingDate": null,
-        "address": "Donkerstraat",
-        "price": "€1313,-"
-      },
-      {
-        "houseLink": "https://househunting.nl/en/woningaanbod/h103300977-oudegracht-utrecht/",
-        "postingDate": null,
-        "address": "Oudegracht",
-        "price": "€1050,-"
-      },
-      {
-        "houseLink": "https://househunting.nl/en/woningaanbod/h103301231-peltlaan-utrecht/",
-        "postingDate": null,
-        "address": "Peltlaan",
-        "price": "€995,-"
-      },
-      {
-        "houseLink": "https://househunting.nl/en/woningaanbod/h103300975-oudegracht-utrecht/",
-        "postingDate": null,
-        "address": "Oudegracht",
-        "price": "€995,-"
-      },
-      {
-        "houseLink": "https://househunting.nl/en/woningaanbod/h103301967-oudkerkhof-utrecht/",
-        "postingDate": null,
-        "address": "Oudkerkhof",
-        "price": "€737,-"
-      },
-      {
-        "houseLink": "https://househunting.nl/en/woningaanbod/h103301262-adenauerlaan-utrecht/",
-        "postingDate": null,
-        "address": "Adenauerlaan",
-        "price": "€920,-"
-      },
-      {
-        "houseLink": "https://househunting.nl/en/woningaanbod/h103300969-oudegracht-utrecht/",
-        "postingDate": null,
-        "address": "Oudegracht",
-        "price": "€1700,-"
-      },
-      {
-        "houseLink": "https://househunting.nl/en/woningaanbod/h103301460-palmstraat-utrecht/",
-        "postingDate": null,
-        "address": "Palmstraat",
-        "price": "€1325,-"
-      },
-      {
-        "houseLink": "https://househunting.nl/en/woningaanbod/h103301319-mgr-van-de-weteringstraat-utrecht/",
-        "postingDate": null,
-        "address": "Mgr. van de Weteringstraat",
-        "price": "€995,-"
-      }
-    ],
-    "househunting_amsterdam": [
-      {
-        "houseLink": "https://househunting.nl/en/woningaanbod/h103301452-waterlooplein-amsterdam/",
-        "postingDate": null,
-        "address": "Waterlooplein",
-        "price": "€814,-"
-      },
-      {
-        "houseLink": "https://househunting.nl/en/woningaanbod/h103301430-boeninlaan-amsterdam/",
-        "postingDate": null,
-        "address": "Boeninlaan",
-        "price": "€957,-"
-      },
-      {
-        "houseLink": "https://househunting.nl/en/woningaanbod/h103300193-spuistraat-amsterdam/",
-        "postingDate": null,
-        "address": "Spuistraat",
-        "price": "€1458,-"
-      },
-      {
-        "houseLink": "https://househunting.nl/en/woningaanbod/h103300167-willem-de-zwijgerlaan-amsterdam/",
-        "postingDate": null,
-        "address": "Willem de Zwijgerlaan",
-        "price": "€1650,-"
-      },
-      {
-        "houseLink": "https://househunting.nl/en/woningaanbod/h103300107-orteliusstraat-amsterdam/",
-        "postingDate": null,
-        "address": "Orteliusstraat",
-        "price": "€1450,-"
-      },
-      {
-        "houseLink": "https://househunting.nl/en/woningaanbod/h103300114-stolwijkstraat-amsterdam/",
-        "postingDate": null,
-        "address": "Stolwijkstraat",
-        "price": "€1495,-"
-      },
-      {
-        "houseLink": "https://househunting.nl/en/woningaanbod/h103300093-sierplein-amsterdam/",
-        "postingDate": null,
-        "address": "Sierplein",
-        "price": "€1200,-"
-      },
-      {
-        "houseLink": "https://househunting.nl/en/woningaanbod/h103380208-jan-van-gentstraat-badhoevedorp/",
-        "postingDate": null,
-        "address": "Jan van Gentstraat",
-        "price": "€1450,-"
-      }
-    ],
-    "rotsvast_utrecht": [
-      {
-        "houseLink": "https://www.rotsvast.nl/en/utrecht-oudegracht-H01600654/",
-        "postingDate": null,
-        "address": "Rent Apartment Oudegracht, Utrecht?",
-        "price": "€1.106,00 per month"
-      },
-      {
-        "houseLink": "https://www.rotsvast.nl/en/utrecht-oudenoord-H01602467697/",
-        "postingDate": null,
-        "address": "Rent Apartment Oudenoord, Utrecht?",
-        "price": "€1.700,00 per month"
-      },
-      {
-        "houseLink": "https://www.rotsvast.nl/en/utrecht-zuilenstraat-H01602468131/",
-        "postingDate": null,
-        "address": "Rent Ground floor apartment Zuilenstraat, Utrecht?",
-        "price": "€1.365,00 per month"
-      }
-    ],
-    "rotsvast_amsterdam": [],
-    "huurwoningen_utrecht": [
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/utrecht/1497741/herenweg/",
-        "postingDate": "21-04-2025",
-        "address": "3513 CB (Pijlsweerd-Zuid)",
-        "price": "€ 1.975 per maand"
-      },
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/utrecht/1497734/johannes-gerobulusstraat/",
-        "postingDate": "21-04-2025",
-        "address": "3553 KA (Julianapark en omgeving)",
-        "price": "€ 1.800 per maand"
-      },
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/utrecht/1497665/shakespearehof/",
-        "postingDate": "18-04-2025",
-        "address": "3533 CZ (Oog in Al)",
-        "price": "€ 1.470 per maand"
-      },
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/utrecht/1497626/pagelaan/",
-        "postingDate": "18-04-2025",
-        "address": "3525 GW (Nieuw Hoograven-Zuid)",
-        "price": "€ 711 per maand"
-      },
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/utrecht/1444283/cobradreef/",
-        "postingDate": "18-04-2025",
-        "address": "3564 ET (Zambesidreef en omgeving)",
-        "price": "€ 950 per maand"
-      },
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/utrecht/1497571/eykmanlaan/",
-        "postingDate": "18-04-2025",
-        "address": "3571 JE (Tuindorp en Van Lieflandlaan-West)",
-        "price": "€ 1.455 per maand"
-      },
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/utrecht/1497531/tussenbusstraat/",
-        "postingDate": "18-04-2025",
-        "address": "3534 BM (Schepenbuurt, Cartesiusweg e.o.)",
-        "price": "€ 941 per maand"
-      },
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/utrecht/1497518/othellodreef/",
-        "postingDate": "18-04-2025",
-        "address": "3561 GV (Taag- en Rubicondreef en omgeving)",
-        "price": "€ 1.250 per maand"
-      },
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/utrecht/1497449/bladvlinder/",
-        "postingDate": "17-04-2025",
-        "address": "3544 DD (Parkwijk-Noord)",
-        "price": "€ 1.760 per maand"
-      },
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/utrecht/1497448/john-coltranestraat/",
-        "postingDate": "17-04-2025",
-        "address": "3543 GN (Terwijde-Oost)",
-        "price": "€ 1.410 per maand"
-      },
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/utrecht/1497433/groeneweg/",
-        "postingDate": "17-04-2025",
-        "address": "3531 VE (Laan van Nieuw-Guinea, Spinozaweg e.o.)",
-        "price": "€ 975 per maand"
-      },
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/utrecht/1497392/zambesidreef/",
-        "postingDate": "17-04-2025",
-        "address": "3564 CB (Zambesidreef en omgeving)",
-        "price": "€ 1.695 per maand"
-      },
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/utrecht/1497391/pal-maleterstraat/",
-        "postingDate": "17-04-2025",
-        "address": "3573 PG (Voordorp en Voorveldsepolder)",
-        "price": "€ 1.650 per maand"
-      },
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/utrecht/1497275/twellosebeeklaan/",
-        "postingDate": "17-04-2025",
-        "address": "3521 DS (Dichterswijk)",
-        "price": "€ 1.225 per maand"
-      },
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/utrecht/1497234/rachmaninoffplantsoen/",
-        "postingDate": "17-04-2025",
-        "address": "3533 JZ (Welgelegen, Den Hommel)",
-        "price": "€ 1.098 per maand"
-      },
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/utrecht/1497191/jongeneelstraat/",
-        "postingDate": "16-04-2025",
-        "address": "3513 DC (Pijlsweerd-Zuid)",
-        "price": "€ 1.545 per maand"
-      },
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/utrecht/1497190/rolderdiephof/",
-        "postingDate": "16-04-2025",
-        "address": "3521 DA (Dichterswijk)",
-        "price": "€ 1.615 per maand"
-      },
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/utrecht/1497182/van-humboldtstraat/",
-        "postingDate": "16-04-2025",
-        "address": "3514 GN (Tuinwijk-Oost)",
-        "price": "€ 1.100 per maand"
-      },
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/utrecht/1497142/idenburgstraat/",
-        "postingDate": "16-04-2025",
-        "address": "3515 EX (Lauwerecht)",
-        "price": "€ 2.000 per maand"
-      },
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/utrecht/1497084/twellosebeeklaan/",
-        "postingDate": "16-04-2025",
-        "address": "3521 DS (Dichterswijk)",
-        "price": "€ 1.225 per maand"
-      },
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/utrecht/1497077/krugerstraat/",
-        "postingDate": "16-04-2025",
-        "address": "3531 AP (Leidseweg en omgeving)",
-        "price": "€ 895 per maand"
-      },
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/utrecht/1497061/t-goylaan/",
-        "postingDate": "16-04-2025",
-        "address": "3525 AB (Nieuw Hoograven-Zuid)",
-        "price": "€ 1.490 per maand"
-      },
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/utrecht/1497016/vronesteinlaan/",
-        "postingDate": "16-04-2025",
-        "address": "3525 XG (Nieuw Hoograven-Zuid)",
-        "price": "€ 1.150 per maand"
-      },
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/utrecht/1497012/willem-frederik-hermansstraat/",
-        "postingDate": "16-04-2025",
-        "address": "3544 KP (Het Zand-Oost)",
-        "price": "€ 1.184 per maand"
-      },
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/utrecht/1496931/verlengde-houtrakgracht/",
-        "postingDate": "15-04-2025",
-        "address": "3544 ED (Parkwijk-Zuid)",
-        "price": "€ 1.184 per maand"
-      },
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/utrecht/1496929/amsterdamsestraatweg/",
-        "postingDate": "15-04-2025",
-        "address": "3555 HL (Zuilen-Noord)",
-        "price": "€ 1.098 per maand"
-      },
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/utrecht/1496869/van-sijpesteijnkade/",
-        "postingDate": "15-04-2025",
-        "address": "3521 AH (Hoog-Catharijne NS en Jaarbeurs)",
-        "price": "€ 1.360 per maand"
-      },
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/utrecht/1496776/van-sijpesteijnkade/",
-        "postingDate": "15-04-2025",
-        "address": "3521 AH (Hoog-Catharijne NS en Jaarbeurs)",
-        "price": "€ 1.118 per maand"
-      },
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/utrecht/1496698/van-sijpesteijnkade/",
-        "postingDate": "14-04-2025",
-        "address": "3521 AH (Hoog-Catharijne NS en Jaarbeurs)",
-        "price": "€ 1.111 per maand"
-      },
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/utrecht/1496696/kanaalstraat/",
-        "postingDate": "14-04-2025",
-        "address": "3531 CK (Lombok-Oost)",
-        "price": "€ 1.158 per maand"
-      }
-    ],
-    "huurwoningen_amsterdam": [
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/amsterdam/1473794/raamgracht/",
-        "postingDate": "21-04-2025",
-        "address": "1011 KH (Nieuwmarkt/Lastage)",
-        "price": "€ 1.900 per maand"
-      },
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/amsterdam/1497724/schalk-burgerstraat/",
-        "postingDate": "21-04-2025",
-        "address": "1092 JX (Transvaalbuurt)",
-        "price": "€ 1.190 per maand"
-      },
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/amsterdam/1497703/vrolikstraat/",
-        "postingDate": "19-04-2025",
-        "address": "1092 TE (Oosterparkbuurt)",
-        "price": "€ 1.750 per maand"
-      },
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/amsterdam/1497700/haringbuisdijk/",
-        "postingDate": "19-04-2025",
-        "address": "1086 VA (IJburg-West)",
-        "price": "€ 1.595 per maand"
-      },
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/amsterdam/1497696/bijlmerplein/",
-        "postingDate": "19-04-2025",
-        "address": "1102 DM (Amsterdamse Poort e.o.)",
-        "price": "€ 950 per maand"
-      },
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/amsterdam/1497695/bijlmerplein/",
-        "postingDate": "19-04-2025",
-        "address": "1102 DM (Amsterdamse Poort e.o.)",
-        "price": "€ 1.201 per maand"
-      },
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/amsterdam/1497668/spadinalaan/",
-        "postingDate": "18-04-2025",
-        "address": "1031 KB (Noordelijke IJ-oevers-West)",
-        "price": "€ 1.735 per maand"
-      },
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/amsterdam/1497652/mary-van-der-sluisstraat/",
-        "postingDate": "18-04-2025",
-        "address": "1095 ME (Zeeburgereiland/Bovendiep)",
-        "price": "€ 1.390 per maand"
-      },
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/amsterdam/1497575/bella-vistastraat/",
-        "postingDate": "18-04-2025",
-        "address": "1096 GM (Omval/Overamstel)",
-        "price": "€ 1.260 per maand"
-      },
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/amsterdam/1497565/elzenhagensingel/",
-        "postingDate": "18-04-2025",
-        "address": "1022 LA (Elzenhagen)",
-        "price": "€ 1.708 per maand"
-      },
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/amsterdam/1497492/abraham-kuyperplein/",
-        "postingDate": "18-04-2025",
-        "address": "1067 DE (Geuzenveld)",
-        "price": "€ 1.135 per maand"
-      },
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/amsterdam/1497491/holendrechtstraat/",
-        "postingDate": "18-04-2025",
-        "address": "1078 TP (IJselbuurt)",
-        "price": "€ 1.184 per maand"
-      },
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/amsterdam/1497490/willem-augustinstraat/",
-        "postingDate": "18-04-2025",
-        "address": "1061 MJ (De Kolenkit)",
-        "price": "€ 1.195 per maand"
-      },
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/amsterdam/1497489/willem-augustinstraat/",
-        "postingDate": "18-04-2025",
-        "address": "1061 MJ (De Kolenkit)",
-        "price": "€ 1.220 per maand"
-      },
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/amsterdam/1497488/albardagracht/",
-        "postingDate": "18-04-2025",
-        "address": "1067 DZ (Geuzenveld)",
-        "price": "€ 1.100 per maand"
-      },
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/amsterdam/1497485/van-suchtelen-van-de-haarestraat/",
-        "postingDate": "18-04-2025",
-        "address": "1068 GR (Osdorp-Oost)",
-        "price": "€ 1.050 per maand"
-      },
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/amsterdam/1497484/kamperfoelieweg/",
-        "postingDate": "18-04-2025",
-        "address": "1032 HG (Volewijck)",
-        "price": "€ 1.050 per maand"
-      },
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/amsterdam/1497451/tt-vasumweg/",
-        "postingDate": "17-04-2025",
-        "address": "1033 SC (Noordelijke IJ-oevers-West)",
-        "price": "€ 1.720 per maand"
-      },
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/amsterdam/1497292/pantograafstraat/",
-        "postingDate": "17-04-2025",
-        "address": "1019 XX (Oostelijk Havengebied)",
-        "price": "€ 1.749 per maand"
-      },
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/amsterdam/1497287/mary-van-der-sluisstraat/",
-        "postingDate": "17-04-2025",
-        "address": "1095 ME (Zeeburgereiland/Bovendiep)",
-        "price": "€ 1.677 per maand"
-      },
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/amsterdam/1497285/eef-kamerbeekstraat/",
-        "postingDate": "17-04-2025",
-        "address": "1095 MP (Zeeburgereiland/Bovendiep)",
-        "price": "€ 1.548 per maand"
-      },
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/amsterdam/1497238/vrolikstraat/",
-        "postingDate": "17-04-2025",
-        "address": "1091 VH (Oosterparkbuurt)",
-        "price": "€ 952 per maand"
-      },
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/amsterdam/1497223/bijlmerdreef/",
-        "postingDate": "16-04-2025",
-        "address": "1103 DS (Ganzenhoef e.o.)",
-        "price": "€ 1.642 per maand"
-      },
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/amsterdam/1497159/sportstraat/",
-        "postingDate": "16-04-2025",
-        "address": "1076 TZ (Stadionbuurt)",
-        "price": "€ 1.990 per maand"
-      },
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/amsterdam/1497021/nova-zemblastraat/",
-        "postingDate": "16-04-2025",
-        "address": "1013 RJ (Spaarndammerbuurt/Zeeheldenbuurt)",
-        "price": "€ 2.000 per maand"
-      },
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/amsterdam/1497018/wethouder-van-wijckstraat/",
-        "postingDate": "16-04-2025",
-        "address": "1107 BP (Gein)",
-        "price": "€ 1.184 per maand"
-      },
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/amsterdam/1497015/oermilla-tewariestraat/",
-        "postingDate": "16-04-2025",
-        "address": "1103 MB (Ganzenhoef e.o.)",
-        "price": "€ 1.260 per maand"
-      },
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/amsterdam/1496967/ijdoornlaan/",
-        "postingDate": "15-04-2025",
-        "address": "1034 BM (Banne Buiksloot)",
-        "price": "€ 1.244 per maand"
-      },
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/amsterdam/1496877/kaasjeskruidstraat/",
-        "postingDate": "15-04-2025",
-        "address": "1032 LS (Noordelijke IJ-oevers-West)",
-        "price": "€ 1.980 per maand"
-      },
-      {
-        "houseLink": "https://www.huurwoningen.nl/huren/amsterdam/1496859/grasweg/",
-        "postingDate": "15-04-2025",
-        "address": "1031 HX (Noordelijke IJ-oevers-West)",
-        "price": "€ 1.560 per maand"
-      }
-    ],
-    "kamernet_utrecht": [
-      {
-        "houseLink": "https://kamernet.nl/huren/appartement-utrecht/frans-halsstraat/appartement-2298853",
-        "postingDate": null,
-        "address": "Frans Halsstraat",
-        "price": null
-      },
-      {
-        "houseLink": "https://kamernet.nl/huren/appartement-utrecht/afrikalaan/appartement-2298771",
-        "postingDate": null,
-        "address": "Afrikalaan",
-        "price": null
-      },
-      {
-        "houseLink": "https://kamernet.nl/huren/appartement-utrecht/wittevrouwensingel/appartement-2298667",
-        "postingDate": null,
-        "address": "Wittevrouwensingel",
-        "price": null
-      },
-      {
-        "houseLink": "https://kamernet.nl/huren/appartement-nieuwegein/weverstedehof/appartement-2298663",
-        "postingDate": null,
-        "address": "Weverstedehof",
-        "price": null
-      },
-      {
-        "houseLink": "https://kamernet.nl/huren/appartement-utrecht/mulderstraat/appartement-2298652",
-        "postingDate": null,
-        "address": "Mulderstraat",
-        "price": null
-      },
-      {
-        "houseLink": "https://kamernet.nl/huren/appartement-utrecht/jan-van-scorelstraat/appartement-2298647",
-        "postingDate": null,
-        "address": "Jan van Scorelstraat",
-        "price": null
-      },
-      {
-        "houseLink": "https://kamernet.nl/huren/appartement-utrecht/burgemeester-norbruislaan/appartement-2297194",
-        "postingDate": null,
-        "address": "Burgemeester Norbruislaan",
-        "price": null
-      },
-      {
-        "houseLink": "https://kamernet.nl/huren/appartement-utrecht/justus-van-effenstraat/appartement-2297033",
-        "postingDate": null,
-        "address": "Justus van Effenstraat",
-        "price": null
-      },
-      {
-        "houseLink": "https://kamernet.nl/huren/appartement-utrecht/otterstraat/appartement-2295848",
-        "postingDate": null,
-        "address": "Otterstraat",
-        "price": null
-      },
-      {
-        "houseLink": "https://kamernet.nl/huren/appartement-utrecht/herenweg/appartement-2140986",
-        "postingDate": null,
-        "address": "Herenweg",
-        "price": null
-      },
-      {
-        "houseLink": "https://kamernet.nl/huren/appartement-utrecht/laan-van-chartroise/appartement-2294877",
-        "postingDate": null,
-        "address": "Laan van Chartroise",
-        "price": null
-      },
-      {
-        "houseLink": "https://kamernet.nl/huren/appartement-utrecht/europaplein/appartement-2294191",
-        "postingDate": null,
-        "address": "Europaplein",
-        "price": null
-      },
-      {
-        "houseLink": "https://kamernet.nl/huren/appartement-utrecht/rhodosdreef/appartement-2292882",
-        "postingDate": null,
-        "address": "Rhodosdreef",
-        "price": null
-      }
-    ],
-    "kamernet_amsterdam": [
-      {
-        "houseLink": "https://kamernet.nl/huren/appartement-amsterdam/duivendrechtsekade/appartement-2298639",
-        "postingDate": null,
-        "address": "Duivendrechtsekade",
-        "price": null
-      },
-      {
-        "houseLink": "https://kamernet.nl/huren/appartement-amsterdam/duivendrechtsekade/appartement-2298637",
-        "postingDate": null,
-        "address": "Duivendrechtsekade",
-        "price": null
-      },
-      {
-        "houseLink": "https://kamernet.nl/huren/appartement-almere/tellusstraat/appartement-2298595",
-        "postingDate": null,
-        "address": "Tellusstraat",
-        "price": null
-      },
-      {
-        "houseLink": "https://kamernet.nl/huren/appartement-haarlem/leidsestraat/appartement-2298594",
-        "postingDate": null,
-        "address": "Leidsestraat",
-        "price": null
-      },
-      {
-        "houseLink": "https://kamernet.nl/huren/appartement-amsterdam/oostenburgerpark/appartement-2298712",
-        "postingDate": null,
-        "address": "Oostenburgerpark",
-        "price": null
-      },
-      {
-        "houseLink": "https://kamernet.nl/huren/appartement-amsterdam/martini-van-geffenstraat/appartement-2298448",
-        "postingDate": null,
-        "address": "Martini van Geffenstraat",
-        "price": null
-      },
-      {
-        "houseLink": "https://kamernet.nl/huren/appartement-amsterdam/willem-leevendstraat/appartement-2297068",
-        "postingDate": null,
-        "address": "Willem Leevendstraat",
-        "price": null
-      },
-      {
-        "houseLink": "https://kamernet.nl/huren/appartement-amsterdam/pedro-de-medinalaan/appartement-2295702",
-        "postingDate": null,
-        "address": "Pedro de Medinalaan",
-        "price": null
-      },
-      {
-        "houseLink": "https://kamernet.nl/huren/appartement-zaandam/burcht/appartement-2295696",
-        "postingDate": null,
-        "address": "Burcht",
-        "price": null
-      },
-      {
-        "houseLink": "https://kamernet.nl/huren/appartement-uithoorn/bijvoet/appartement-2295423",
-        "postingDate": null,
-        "address": "Bijvoet",
-        "price": null
-      },
-      {
-        "houseLink": "https://kamernet.nl/huren/appartement-amsterdam/oostelijke-handelskade/appartement-2295343",
-        "postingDate": null,
-        "address": "Oostelijke Handelskade",
-        "price": null
-      },
-      {
-        "houseLink": "https://kamernet.nl/huren/appartement-amsterdam/kijkduinstraat/appartement-2295127",
-        "postingDate": null,
-        "address": "Kijkduinstraat",
-        "price": null
-      },
-      {
-        "houseLink": "https://kamernet.nl/huren/appartement-amsterdam/gouden-leeuw/appartement-2294608",
-        "postingDate": null,
-        "address": "Gouden Leeuw",
-        "price": null
-      },
-      {
-        "houseLink": "https://kamernet.nl/huren/appartement-hillegom/van-limburg-stirumlaan/appartement-2294538",
-        "postingDate": null,
-        "address": "Van Limburg Stirumlaan",
-        "price": null
-      },
-      {
-        "houseLink": "https://kamernet.nl/huren/appartement-amsterdam/van-spilbergenstraat/appartement-2294509",
-        "postingDate": null,
-        "address": "Van Spilbergenstraat",
-        "price": null
-      },
-      {
-        "houseLink": "https://kamernet.nl/huren/appartement-amsterdam/florijn/appartement-2293751",
-        "postingDate": null,
-        "address": "Florijn",
-        "price": null
-      },
-      {
-        "houseLink": "https://kamernet.nl/huren/appartement-hillegom/van-limburg-stirumlaan/appartement-2292889",
-        "postingDate": null,
-        "address": "Van Limburg Stirumlaan",
-        "price": null
+        "address": "For rent: Flat Potterstraat in Utrecht",
+        "price": "€1,356 per month"
       }
     ]
   }
