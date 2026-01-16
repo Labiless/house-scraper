@@ -1,8 +1,16 @@
 import websites from "./config/websites.js";
 import { findNewHouses } from "./services/siteScraper.js";
 import sendMail from "./services/email.js";
+import fs from 'fs';
+import path from 'path';
 
-const minutes = 2;
+const minutes = 2; // minutes between each search
+
+if (process.argv.slice(2).includes('--dv')) {
+  const bannerPath = path.join(process.cwd(), 'dv.config');
+  const banner = fs.readFileSync(bannerPath, 'utf8')
+  console.log(banner);
+}
 
 const initSearch = async () => {
     console.log('\x1b[42m\x1b[30m %s \x1b[0m', '\nNEW ROUND--------\n');

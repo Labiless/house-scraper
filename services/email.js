@@ -1,7 +1,5 @@
 import nodemailer from 'nodemailer';
 
-console.log(process.env.GMAIL);
-
 const emailConfig = {
     adress: process.env.GMAIL,
     password: process.env.GMAIL_PASSWORD,
