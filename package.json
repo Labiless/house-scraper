@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "start": "node --env-file=.env index.js",
-    "darkvalery": "node --env-file=.env index.js --dv"
+    "darkvalery": "node dv.js"
   },
   "author": "",
   "license": "ISC",
