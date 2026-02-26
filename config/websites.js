@@ -12,6 +12,19 @@ const websites = [
             priceSelector: '.listing-detail-summary__price-main',
         }
     },
+    {
+        timeout: 500,
+        name: 'kamernet_utrecht',
+        baseUrl: 'https://kamernet.nl/',
+        url: 'https://kamernet.nl/en/for-rent/properties-utrecht?radius=5&minSize=19&maxRent=16&searchCategories=2%2C19',
+        houseCardSelector: '#page-content > section:nth-child(2) > div > div:nth-child(3) > a',
+        removeUrlParam: false,
+        housePage: {
+            postingDateSelector: '#page-content > section > div > div.Header_details__5AMHI > p.MuiTypography-root.MuiTypography-body3.mui-149gk8w',
+            addressSelector: '#map > p',
+            priceSelector: '#cost-breakups > div > div:nth-child(1) > h6',
+        }
+    },
 ]
 
 export default websites;

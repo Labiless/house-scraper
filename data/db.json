@@ -1,6 +1,231 @@
 {
   "housesLinks": {
+    "pararius_utrecht": [
+      "https://www.pararius.com/apartment-for-rent/utrecht/11975d4f/gildstraat",
+      "https://www.pararius.com/apartment-for-rent/utrecht/aa7516be/maliestraat",
+      "https://www.pararius.com/studio-for-rent/utrecht/e04073e7/ravenoord",
+      "https://www.pararius.com/apartment-for-rent/utrecht/b4aaae3f/jan-van-foreeststraat",
+      "https://www.pararius.com/apartment-for-rent/utrecht/54448b5f/oudegracht",
+      "https://www.pararius.com/studio-for-rent/utrecht/4af3c012/van-karnebeekstraat",
+      "https://www.pararius.com/studio-for-rent/utrecht/ea36bc19/oudlaan",
+      "https://www.pararius.com/apartment-for-rent/utrecht/9cbb5510/antonius-matthaeuslaan",
+      "https://www.pararius.com/apartment-for-rent/utrecht/4d5b69d5/pieter-nieuwlandstraat",
+      "https://www.pararius.com/apartment-for-rent/utrecht/51f0e3e8/vleutenseweg",
+      "https://www.pararius.com/studio-for-rent/utrecht/e18421bc/laan-van-nieuw-guinea",
+      "https://www.pararius.com/apartment-for-rent/utrecht/ed44d3b0/winklerlaan",
+      "https://www.pararius.com/apartment-for-rent/utrecht/95089b20/henriettedreef",
+      "https://www.pararius.com/apartment-for-rent/utrecht/97a21919/donkerstraat",
+      "https://www.pararius.com/studio-for-rent/utrecht/e9036dcd/van-heesstraat",
+      "https://www.pararius.com/apartment-for-rent/utrecht/d2f82783/albert-van-dalsumlaan",
+      "https://www.pararius.com/apartment-for-rent/utrecht/1b69dd60/oudegracht",
+      "https://www.pararius.com/apartment-for-rent/utrecht/9efa7013/pal-maleterstraat",
+      "https://www.pararius.com/apartment-for-rent/utrecht/e4c59dc8/berlagestraat",
+      "https://www.pararius.com/house-for-rent/utrecht/2c5f402e/jacobskerksteeg",
+      "https://www.pararius.com/apartment-for-rent/utrecht/5d7ab163/donkerstraat",
+      "https://www.pararius.com/apartment-for-rent/utrecht/da1104ca/wulpstraat",
+      "https://www.pararius.com/apartment-for-rent/utrecht/8239eceb/willem-barentszstraat",
+      "https://www.pararius.com/apartment-for-rent/utrecht/22ef4452/van-heuven-goedhartplein",
+      "https://www.pararius.com/apartment-for-rent/utrecht/529461f8/donkerstraat"
+    ],
+    "kamernet_utrecht": [
+      "https://kamernet.nl//en/for-rent/apartment-utrecht/tafelbergdreef/apartment-2360434",
+      "https://kamernet.nl//en/for-rent/apartment-nieuwegein/weverstedehof/apartment-2360298",
+      "https://kamernet.nl//en/for-rent/apartment-utrecht/adriaanstraat/apartment-2359864",
+      "https://kamernet.nl//en/for-rent/apartment-utrecht/pauwstraat/apartment-2359636",
+      "https://kamernet.nl//en/for-rent/apartment-utrecht/jansveld/apartment-2359222",
+      "https://kamernet.nl//en/for-rent/apartment-utrecht/oudegracht/apartment-2358740"
+    ]
   },
   "housesDetails": {
+    "pararius_utrecht": [
+      {
+        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/11975d4f/gildstraat",
+        "postingDate": null,
+        "address": "For rent: Flat Gildstraat in Utrecht",
+        "price": "Price on request"
+      },
+      {
+        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/aa7516be/maliestraat",
+        "postingDate": null,
+        "address": "For rent: Flat Maliestraat 1 J in Utrecht",
+        "price": "€870 per month"
+      },
+      {
+        "houseLink": "https://www.pararius.com/studio-for-rent/utrecht/e04073e7/ravenoord",
+        "postingDate": null,
+        "address": "For rent: Studio Ravenoord 97 in Utrecht",
+        "price": "€975 per month"
+      },
+      {
+        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/b4aaae3f/jan-van-foreeststraat",
+        "postingDate": null,
+        "address": "For rent: Flat Jan van Foreeststraat in Utrecht",
+        "price": "€1,625 per month"
+      },
+      {
+        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/54448b5f/oudegracht",
+        "postingDate": null,
+        "address": "For rent: Flat Oudegracht in Utrecht",
+        "price": "€995 per month"
+      },
+      {
+        "houseLink": "https://www.pararius.com/studio-for-rent/utrecht/4af3c012/van-karnebeekstraat",
+        "postingDate": null,
+        "address": "For rent: Studio Van Karnebeekstraat in Utrecht",
+        "price": "€1,395 per month"
+      },
+      {
+        "houseLink": "https://www.pararius.com/studio-for-rent/utrecht/ea36bc19/oudlaan",
+        "postingDate": null,
+        "address": "For rent: Studio Oudlaan in Utrecht",
+        "price": "€1,221 per month"
+      },
+      {
+        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/9cbb5510/antonius-matthaeuslaan",
+        "postingDate": null,
+        "address": "For rent: Flat Antonius Matthaeuslaan 87 B in Utrecht",
+        "price": "€993 per month"
+      },
+      {
+        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/4d5b69d5/pieter-nieuwlandstraat",
+        "postingDate": null,
+        "address": "For rent: Flat Pieter Nieuwlandstraat in Utrecht",
+        "price": "€975 per month"
+      },
+      {
+        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/51f0e3e8/vleutenseweg",
+        "postingDate": null,
+        "address": "For rent: Flat Vleutenseweg in Utrecht",
+        "price": "€1,350 per month"
+      },
+      {
+        "houseLink": "https://www.pararius.com/studio-for-rent/utrecht/e18421bc/laan-van-nieuw-guinea",
+        "postingDate": null,
+        "address": "For rent: Studio Laan van Nieuw-Guinea in Utrecht",
+        "price": "Price on request"
+      },
+      {
+        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/ed44d3b0/winklerlaan",
+        "postingDate": null,
+        "address": "For rent: Flat Winklerlaan in Utrecht",
+        "price": "€1,695 per month"
+      },
+      {
+        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/95089b20/henriettedreef",
+        "postingDate": null,
+        "address": "For rent: Flat Henriëttedreef in Utrecht",
+        "price": "€1,695 per month"
+      },
+      {
+        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/97a21919/donkerstraat",
+        "postingDate": null,
+        "address": "For rent: Flat Donkerstraat in Utrecht",
+        "price": "€1,185 per month"
+      },
+      {
+        "houseLink": "https://www.pararius.com/studio-for-rent/utrecht/e9036dcd/van-heesstraat",
+        "postingDate": null,
+        "address": "For rent: Studio Van Heesstraat in Utrecht",
+        "price": "€1,100 per month"
+      },
+      {
+        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/d2f82783/albert-van-dalsumlaan",
+        "postingDate": null,
+        "address": "For rent: Flat Albert van Dalsumlaan in Utrecht",
+        "price": "€1,595 per month"
+      },
+      {
+        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/1b69dd60/oudegracht",
+        "postingDate": null,
+        "address": "For rent: Flat Oudegracht 399 in Utrecht",
+        "price": "€1,450 per month"
+      },
+      {
+        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/9efa7013/pal-maleterstraat",
+        "postingDate": null,
+        "address": "For rent: Flat Pal Maleterstraat 10 in Utrecht",
+        "price": "€1,650 per month"
+      },
+      {
+        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/e4c59dc8/berlagestraat",
+        "postingDate": null,
+        "address": "For rent: Flat Berlagestraat 108 in Utrecht",
+        "price": "€1,700 per month"
+      },
+      {
+        "houseLink": "https://www.pararius.com/house-for-rent/utrecht/2c5f402e/jacobskerksteeg",
+        "postingDate": null,
+        "address": "For rent: House Jacobskerksteeg in Utrecht",
+        "price": "€1,217 per month"
+      },
+      {
+        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/5d7ab163/donkerstraat",
+        "postingDate": null,
+        "address": "For rent: Flat Donkerstraat in Utrecht",
+        "price": "€1,749 per month"
+      },
+      {
+        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/da1104ca/wulpstraat",
+        "postingDate": null,
+        "address": "For rent: Flat Wulpstraat 55 in Utrecht",
+        "price": "€1,105 per month"
+      },
+      {
+        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/8239eceb/willem-barentszstraat",
+        "postingDate": null,
+        "address": "For rent: Flat Willem Barentszstraat in Utrecht",
+        "price": "€1,025 per month"
+      },
+      {
+        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/22ef4452/van-heuven-goedhartplein",
+        "postingDate": null,
+        "address": "For rent: Flat Van Heuven Goedhartplein in Utrecht",
+        "price": "€1,266 per month"
+      },
+      {
+        "houseLink": "https://www.pararius.com/apartment-for-rent/utrecht/529461f8/donkerstraat",
+        "postingDate": null,
+        "address": "For rent: Flat Donkerstraat in Utrecht",
+        "price": "€1,482 per month"
+      }
+    ],
+    "kamernet_utrecht": [
+      {
+        "houseLink": "https://kamernet.nl//en/for-rent/apartment-utrecht/tafelbergdreef/apartment-2360434",
+        "postingDate": "Posted 0 hours ago",
+        "address": "Tafelbergdreef, Utrecht",
+        "price": "€1,315"
+      },
+      {
+        "houseLink": "https://kamernet.nl//en/for-rent/apartment-nieuwegein/weverstedehof/apartment-2360298",
+        "postingDate": "Posted 19 hours ago",
+        "address": "Weverstedehof, Nieuwegein",
+        "price": "€1,000"
+      },
+      {
+        "houseLink": "https://kamernet.nl//en/for-rent/apartment-utrecht/adriaanstraat/apartment-2359864",
+        "postingDate": "Posted 2 days ago",
+        "address": "Adriaanstraat, Utrecht",
+        "price": "€1,107"
+      },
+      {
+        "houseLink": "https://kamernet.nl//en/for-rent/apartment-utrecht/pauwstraat/apartment-2359636",
+        "postingDate": "Posted 3 days ago",
+        "address": "Pauwstraat, Utrecht",
+        "price": "€1,200"
+      },
+      {
+        "houseLink": "https://kamernet.nl//en/for-rent/apartment-utrecht/jansveld/apartment-2359222",
+        "postingDate": "Posted 5 days ago",
+        "address": "Jansveld, Utrecht",
+        "price": "€1,350"
+      },
+      {
+        "houseLink": "https://kamernet.nl//en/for-rent/apartment-utrecht/oudegracht/apartment-2358740",
+        "postingDate": "Posted 7 days ago",
+        "address": "Oudegracht, Utrecht",
+        "price": "€1,100"
+      }
+    ]
   }
 }

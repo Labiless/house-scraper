@@ -3,7 +3,7 @@ import nodemailer from 'nodemailer';
 const emailConfig = {
     adress: process.env.GMAIL,
     password: process.env.GMAIL_PASSWORD,
-    mailingList: ['alessandromiele94@gmail.com'],
+    mailingList: ['alessandromiele94@gmail.com', 'nikitalaventura@icloud.com'],
 }
 
 const transporter = nodemailer.createTransport({
